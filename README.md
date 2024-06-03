@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java, Spring.**
 
-- 💬 Ask me about **Java, Spring, Oracle.**
+- 💬 Ask me about **Java, Spring, Springboot, react, mysql, Oracle.**
 
-- 📫 How to reach me **ankybihari@gmail.com**
+- 📫 How to reach me **imankitkr20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
